@@ -1,1 +1,1 @@
-console. log('ini file tes2');
+console. log('ini file tes2 baru');
