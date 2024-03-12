@@ -8,4 +8,7 @@ const multiplyNumber = (a,b) => a * b;
 console. log(multiplyNumber(2, 2));
 
 const divide = (a, b) => a / b;
-consloe. log(divide(4, 2));
+console. log(divide(4, 2));
+
+const mathSin = (number) => Math.sin(number); 
+console. log(mathSin(10));
